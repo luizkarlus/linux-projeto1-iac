@@ -1,8 +1,3 @@
-Aqui está o arquivo **README.md** documentando seu script:
-
----
-
-```md
 # Automação de Criação de Diretórios, Grupos, Usuários e Permissões
 
 Este script **automatiza** a criação de diretórios, grupos, usuários e define permissões em um ambiente Linux.
